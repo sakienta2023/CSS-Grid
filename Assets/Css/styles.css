@@ -457,7 +457,7 @@ main-0-outer {
 }
 
 .main-2-outer {
-    width: 100px;
+    width: 100px; /*Review units, updated from px*/
     position: relative;
     bottom: 30px;
 }
